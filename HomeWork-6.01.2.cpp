@@ -5,6 +5,7 @@
 #include <random>
 #include <mutex>
 #include <iterator>
+#include <algorithm>
 
 std::once_flag one;
 
